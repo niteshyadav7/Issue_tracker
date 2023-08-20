@@ -25,27 +25,9 @@ All this data will be stored at MongoDB Atlas.
 ## Website 
 ### To see the project: https://navy-blue-hedgehog-fez.cyclic.app/
 
-## Preview...
-Main Page
-
-![Main page](https://github.com/shubhamdhiman/Issue-Detector-Backend-Nodejs-ExpressJs-MongoDB/assets/18380165/98c1e3eb-5f3c-4633-8cc4-054625761720)
-
-Create Project Page
-![create project](https://github.com/shubhamdhiman/Issue-Detector-Backend-Nodejs-ExpressJs-MongoDB/assets/18380165/895a69c2-f227-4083-8da7-9608ae55f083)
-
-Project Details Page
-![project details](https://github.com/shubhamdhiman/Issue-Detector-Backend-Nodejs-ExpressJs-MongoDB/assets/18380165/b7ff2439-e26d-46b0-83f1-2033fa0bff33)
-
-Create Issue Page
-![create issue](https://github.com/shubhamdhiman/Issue-Detector-Backend-Nodejs-ExpressJs-MongoDB/assets/18380165/e0da26e4-bf1c-465d-a604-9a374241690b)
 
 ## To start the project in local system, write two commands in the terminal
 * npm install,
    Then after installing all the dependencies, write
 * npm run dev
 
-## Contact Me
-* Email: shubhamdhiman00.sd@gmail.com
-* Instagram: @shubham_dhiman3.089
-* Twitter: https://twitter.com/shubhamdhiman78
-* Youtube: https://www.youtube.com/channel/UCiB-unVOfV1dcHWyvhesI4w
