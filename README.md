@@ -23,7 +23,7 @@ All this data will be stored at MongoDB Atlas.
 <img  src="https://user-images.githubusercontent.com/18380165/224329339-a5174b23-1a5c-4ae4-95c8-ead20a29d77e.png" width="100" height="100">
 
 ## Website 
-### To see the project: https://navy-blue-hedgehog-fez.cyclic.app/
+
 
 
 ## To start the project in local system, write two commands in the terminal
